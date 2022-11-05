@@ -15,7 +15,7 @@
  */
 
 error_reporting(E_ERROR | E_WARNING | E_PARSE);
-
+echo("mnbb ")
 require 'AccountRefills.php';
 require 'Logger.php';
 require 'WhatsappController.php';
